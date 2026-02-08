@@ -24,7 +24,8 @@ KNN
 Decision Tree
 Random Forest
 Support Vector Machine (SVM)
-Ensemble methods (basic level)
+Ensemble methods (basic level) 
+Hierarchical Clustering
 DBSCAN clustering
 K-means Clustering
 
