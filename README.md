@@ -1,4 +1,4 @@
-This repository contains all my machine learning practice work.
+This repository contains all my machine learning practice work and Projects.
 I created this folder while learning machine learning concepts step by step.
 
 **Technologies Used**
@@ -15,7 +15,7 @@ Regression algorithms
 Classification algorithms
 Model training and testing
 Accuracy and evaluation metrics
-Clustering
+Clustering 
 
 **Algorithms Practiced**
 Linear Regression
